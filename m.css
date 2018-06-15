@@ -1,0 +1,52 @@
+#test {
+    position: relative;
+    left: 10px ;
+    top: 10px ;
+    color : red
+  }
+
+td {
+    color: red ;
+    font-weight: bold ;
+    padding: 10px;
+    text-align: center
+}
+
+th {
+    color: brown ;
+    font-weight: bold ;
+    padding: 10px;
+    text-align: center
+}
+
+.today {
+    background-color: blue ;
+    color: rgb(210, 231, 23) ;
+
+}
+
+div {
+    position: relative;
+    width : 330px ;
+    padding: 5px ;
+    margin : 5px ;
+    background-color: blanchedalmond ;
+}
+
+div button {
+    padding: 10px ;
+    margin : 1% ;
+    background-color: aquamarine ;
+}
+
+
+div button:hover {
+
+    background-color: blueviolet ;
+}
+
+div span {
+    background-color: aqua ;
+    padding: 5px ;
+    margin: 20% ;
+}
