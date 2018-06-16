@@ -127,6 +127,8 @@ let control = {
 
     render : function(){
 
+        model.currentTime();
+
         view.htmlBar( 
             model.monthName[ model.d.getMonth() ] ,
             model.d.getFullYear()
